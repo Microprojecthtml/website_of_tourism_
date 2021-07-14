@@ -1,0 +1,74 @@
+<!DOCTYPE.html>
+<html>
+<head>
+<title>MICROPROJECT WEB PAGE DESIGN</title>
+<meta name="viewreport"
+content="width=device-width,initial-scale=1">
+
+
+</head>
+<body style = "text-align: center";">
+<h1 style = "color: green;>
+MICRO PROJECT
+</h1>
+<div class = "vertical"></div>
+</body>
+<body>
+
+<div class="row"> 
+<div class="column left" style= "background-color:ghostwhite;">
+<h2>1) Ajintha</h2>
+<p style="text-align:center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kailasha_temple_at_ellora.JPG/300px-Kailasha_temple_at_ellora.JPG" ></p>
+<blockquote><hr><h2>Ajintha Caves</h2><hr>
+<p style="text-align:justify">The Buddhist Caves in Ajanta are approximately 30 rock-cut Buddhist cave monuments dating from the 2nd century BCE to about 480 CE in the Aurangabad district of Maharashtra state in India. The caves include paintings and rock-cut sculptures described as among the finest surviving examples of ancient Indian art, particularly expressive paintings that present emotions through gesture, pose and form.</p>
+<hr><p style="text-align:center"><img src="https://www.indiaculture.nic.in/sites/all/themes/moc/images/Ajanta%20Caves.jpg" height="200" width="300"></p><hr>
+<h3><li>External Links:</li></h3>
+<a href="https://en.wikipedia.org/wiki/Ajanta_Caves#Cave_1">Cave 1</a><br>
+<a href="https://en.wikipedia.org/wiki/Ajanta_Caves#Cave_2">Cave 2</a><br>
+<a href="https://en.wikipedia.org/wiki/Ajanta_Caves#Cave_3">Cave 3</a><br>
+<a href="https://en.wikipedia.org/wiki/Ajanta_Caves#Cave_4">Cave 4</a><br>
+<a href="https://en.wikipedia.org/wiki/Ajanta_Caves#Cave_5">Cave 5</a><br>
+<a href="https://en.wikipedia.org/wiki/Ajanta_Caves#Cave_6">Cave 6</a><br>
+<a href="https://en.wikipedia.org/wiki/Ajanta_Caves#Cave_7">Cave 7</a><br>
+<h3><hr><li>Location:</li></h3><hr>
+<address>
+<a href="https://www.google.com/maps/vt/data=xpz_XMj6amSFAL6iXm_6wJnBa2C6Ry0R9ZGxkxXm3Q6i975hEnhfwkX2oNMl8_R8GvjhyDYNExwXNQnt0vKCL9wO7l2sapUEmql7-cY8l5SnuMuxwJ8tgMIrPoU_YjIiGtUpdeI1usLkV79Lbw1Li-1RdYh55049Ozbtu5ghPcKzQjNlt8BSWm6kUZwr04dcxjqH-H1m2YAQM7mUQh2EfGpbj1WY33js7UND0T23u7tuRZSlR5Ovh0tU8TdoExSeh690mihnRhI">Ellora Cave Rd, </a><br>
+Ellora,<br>
+<a href="C:\Users\Dell\Pictures\LOCATION\Location5.png">Maharashtra</a> - 431102<br></address>
+<p style="text-align:center"><img src="C:\Users\Dell\Pictures\LOCATION\Location6.png"  height="250" width="400" ></p>
+<hr><h2><u>History</u>
+</h2><hr>
+<p style="text-align:center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Map_of_Ajanta_Caves.svg/800px-Map_of_Ajanta_Caves.svg.png" align="left" height="150" width="250"></p>
+<p style="text-align:justify">The Ajanta Caves are generally agreed to have been made in two distinct phases, the first during the 2nd century BCE to 1st century CE, and a second several centuries later.The caves consist of 36 identifiable foundations, some of them discovered after the original numbering of the caves from 1 through 29. The later-identified caves have been suffixed with the letters of the alphabet, such as 15A, identified between originally numbered caves 15 and 16. The cave numbering is a convention of convenience, and does not reflect the chronological order of their construction.</p>
+</img>
+<h3><hr><li>Paintings:</li><hr></h3>
+<p style="text-align:justify">The paintings in the Ajanta caves predominantly narrate the Jataka tales. These are Buddhist legends describing the previous births of the Buddha. These fables embed ancient morals and cultural lores that are also found in the fables and legends of Hindu and Jain texts. The Jataka tales are exemplified through the life example and sacrifices that the Buddha made in hundreds of his past incarnations, where he is depicted as having been reborn as an animal or human.</p>
+<p style="text-align=justify">Mural paintings survive from both the earlier and later groups of caves. Several fragments of murals preserved from the earlier caves (Caves 10 and 11) are effectively unique survivals of ancient painting in India from this period, and "show that by Sātavāhana times, if not earlier, the Indian painters had mastered an easy and fluent naturalistic style, dealing with large groups of people in a manner comparable to the reliefs of the Sāñcī toraņa crossbars". Some connections with the art of Gandhara can also be noted, and there is evidence of a shared artistic idiom.</p>
+<a href="https://www.holidify.com/pages/ajanta-caves-paintings-1822.html">More information about paintings</a><hr>
+<h3><li>Refrences:</li></h3>
+<li><a href="">https://www.worldhistory.org/Ajanta/</a></li>
+<li><a href="">https://www.loc.gov/books/?fa=location%3Aajanta&all=true&c=150&st=list</a></li><hr>
+</div>
+
+<div class="column right" style="background-color:ghostwhite;">
+<h2>2) Verul</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ElloraWik.jpg/200px-ElloraWik.jpg" >
+<p>aditya rajkumar deshmane</p>
+</div>
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
